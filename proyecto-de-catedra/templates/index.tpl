@@ -6,3 +6,5 @@
 <p>{$s->nombre},{$s->apellido}</p>
 
 {/foreach}
+
+{include 'templates/footer.tpl'}

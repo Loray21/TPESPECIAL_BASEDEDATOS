@@ -4,3 +4,4 @@
 </form>
 
 <li> <a href='TOP10'> TOP 10 </a></li>
+{include 'templates/footer.tpl'}

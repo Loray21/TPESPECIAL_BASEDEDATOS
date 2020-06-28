@@ -5,3 +5,4 @@
 </form>
 
 <li href='TOP10'>top 10 usuarios:</li>
+{include 'templates/footer.tpl'}

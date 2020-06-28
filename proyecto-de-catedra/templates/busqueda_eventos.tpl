@@ -7,3 +7,4 @@
 {foreach from=$usuarios item=s}
 <li>{$s->nombre}</li>
 {/foreach}
+{include 'templates/footer.tpl'}
